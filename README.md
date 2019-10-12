@@ -1,0 +1,2 @@
+# wetterstation_frontend
+Nutzerfreundliche Datenaufbereitung der schuleigenen Wetterstation
